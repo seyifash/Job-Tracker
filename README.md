@@ -5,7 +5,7 @@ Users can sign up, log in, and securely access a dashboard to manage job-related
 
 ---
 
-##Features
+## Features
 
 - ✅ Email/password **Sign up** and **Login**
 - 🔐 **Protected routes** (dashboard only accessible to authenticated users)
