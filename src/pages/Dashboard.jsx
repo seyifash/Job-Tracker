@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import DashboardLayout from '../components/DashboardLayout';
-import JobForm from '../components/Jobform';
+import JobForm from '../components/JobForm';
 
 const Dashboard = () => {
   const [jobs, setJobs] = useState(() => {
